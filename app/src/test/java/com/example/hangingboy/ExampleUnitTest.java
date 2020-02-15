@@ -1,4 +1,4 @@
-package com.example.hangingman;
+package com.example.hangingboy;
 
 import org.junit.Test;
 
